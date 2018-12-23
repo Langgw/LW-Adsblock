@@ -1,4 +1,4 @@
-Created by Lang W
+## Wordpress Plugin Anti Adsblock
 
 v1.5 
   - Fix Mobile Style Adblock Message
@@ -6,3 +6,5 @@ v1.5
 v1.6
   - Fix Style Admin Setting Adblock
   - Fix Bug 
+  
+  
